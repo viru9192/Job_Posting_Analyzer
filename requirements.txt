@@ -1,0 +1,9 @@
+```txt
+streamlit
+pandas
+numpy
+scikit-learn
+xgboost
+joblib
+scipy
+notebook
