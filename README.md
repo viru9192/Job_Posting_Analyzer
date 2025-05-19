@@ -1,16 +1,16 @@
-# 🕵️‍♂️ Job Posting Analyzer — Fake Job Detection using NLP + ML
+# Job Posting Analyzer — Fake Job Detection using NLP + ML
 
 This project is a complete machine learning pipeline for detecting **fake job postings** using **Natural Language Processing** (TF-IDF), **feature engineering**, and **XGBoost** classifier. It includes a user-friendly **Streamlit web interface** for real-time predictions.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 With the rise of online job scams, it's crucial to automatically detect fraudulent postings. Our system is trained on real-world data and uses a hybrid of textual and structured features for classification.
 
 ---
 
-## 🧠 Features
+## Features
 
 - **NLP Feature Extraction**:
   - TF-IDF vectorization (bi-grams, 7000 features)
@@ -42,7 +42,7 @@ With the rise of online job scams, it's crucial to automatically detect fraudule
 
 ---
 
-## 🚀 How to Run Locally
+##  How to Run Locally
 
 ### 1. Clone the repository
 
