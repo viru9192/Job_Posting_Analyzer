@@ -47,5 +47,5 @@ With the rise of online job scams, it's crucial to automatically detect fraudule
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Job_Posting_Analyzer.git
+git clone https://github.com/viru9192/Job_Posting_Analyzer.git
 cd Job_Posting_Analyzer
